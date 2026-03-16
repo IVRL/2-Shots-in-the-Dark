@@ -163,6 +163,10 @@ bash test_lrid.sh  # Evaluates on LRID (indoor + outdoor)
 
 Results (PSNR/SSIM per image and averaged) are printed to the console and saved to text files in the output folder. When `--visualize_img` is enabled, denoised output images are also saved.
 
+## TODO
+
+- [ ] Upload synthetic dark frames
+
 ## Citation
 
 If you find this work useful, please cite:
