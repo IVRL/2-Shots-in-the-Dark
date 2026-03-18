@@ -69,7 +69,7 @@ Update the dataset paths in the test scripts or directly in `test_denoising.py` 
 
 We provide two Jupyter notebooks under `demos/` to illustrate key components of our method:
 
-- **`generated_darkframe_demo.ipynb`** — Demonstrates how to synthesize dark frames from minimal acquisitions, modeling dark shading and read noise.
+- **`generated_darkframe_demo.ipynb`** — Demonstrates how to synthesize dark frames from minimal acquisitions, modeling signal-independent noise.
 - **`poisson_noise_analysis_demo.ipynb`** — Shows how to estimate the Poisson noise parameter (shot noise) from a single noisy raw image.
 
 ## Training
