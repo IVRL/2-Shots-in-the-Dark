@@ -1,6 +1,6 @@
 # 2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition
 
-This repository contains the official implementation of **"2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition"**.
+This repository contains the official implementation of **"2-Shots in the Dark: Low-Light Denoising with Minimal Data Acquisition"**, CVPR 2026.
 
 📄 [View on arXiv](https://arxiv.org/abs/2512.03245)
 
